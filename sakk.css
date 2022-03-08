@@ -1,0 +1,334 @@
+#tabla
+{
+background-image: url('kepek/tabla/150.png');
+background-size: 400px;
+display: block;
+width: 400px;
+height: 400px;
+}
+html
+{
+    min-width: 500px;
+    min-height: 500px;
+}
+.babu
+{
+    size: 5px;
+    background-size: 50px;
+    cursor: pointer;
+    cursor: grab;
+    cursor: -webkit-grab;
+    height: 12.5%;
+    left: 10;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    touch-action: none;
+    width: 12.5%;
+    will-change: transform;
+    background-repeat:no-repeat;
+}
+.Bparaszt
+{
+    background-image: url('kepek/babuk/bp.png');
+}
+.Wparaszt
+{
+    background-image: url('kepek/babuk/wp.png');
+}
+.Bkiraly
+{
+    background-image: url('kepek/babuk/bk.png');
+}
+.Wkiraly
+{
+    background-image: url('kepek/babuk/wk.png');
+}
+.Bkiralyno
+{
+    background-image: url('kepek/babuk/bq.png');
+}
+.Wkiralyno
+{
+    background-image: url('kepek/babuk/wq.png');
+}
+.Bfuto
+{
+    background-image: url('kepek/babuk/bb.png');
+}
+.Wfuto
+{
+    background-image: url('kepek/babuk/wb.png');
+}
+.Blo
+{
+    background-image: url('kepek/babuk/bn.png');
+}
+.Wlo
+{
+    background-image: url('kepek/babuk/wn.png');
+}
+.Bbastya
+{
+    background-image: url('kepek/babuk/br.png');
+}
+.Wbastya
+{
+    background-image: url('kepek/babuk/wr.png');
+}
+.mezoA8
+{
+    transform: translate(0,5%);
+}
+.mezoB8
+{
+    transform: translate(30%,5%);
+}
+.mezoC8
+{
+    transform: translate(60%,5%);
+}
+.mezoD8
+{
+    transform: translate(90%,5%);
+}
+.mezoE8
+{
+    transform: translate(120%,5%);
+}
+.mezoF8
+{
+    transform: translate(150%,5%);
+}
+.mezoG8
+{
+    transform: translate(180%,5%);
+}
+.mezoH8
+{
+    transform: translate(210%,5%);
+}
+.mezoA7
+{
+    transform: translate(0%,50%);
+}
+.mezoB7
+{
+    transform: translate(30%,50%);
+}
+.mezoC7
+{
+    transform: translate(60%,50%);
+}
+.mezoD7
+{
+    transform: translate(90%,50%);
+}
+.mezoE7
+{
+    transform: translate(120%,50%);
+}
+.mezoF7
+{
+    transform: translate(150%,50%);
+}
+.mezoG7
+{
+    transform: translate(180%,50%);
+}
+.mezoH7
+{
+    transform: translate(210%,50%);
+}
+.mezoA6
+{
+    transform: translate(0%,90%);
+}
+.mezoB6
+{
+    transform: translate(30%,90%);
+}
+.mezoC6
+{
+    transform: translate(60%,90%);
+}
+.mezoD6
+{
+    transform: translate(90%,90%);
+}
+.mezoE6
+{
+    transform: translate(120%,90%);
+}
+.mezoF6
+{
+    transform: translate(150%,90%);
+}
+.mezoG6
+{
+    transform: translate(180%,90%);
+}
+.mezoH6
+{
+    transform: translate(210%,90%);
+}
+.mezoA5
+{
+    
+}
+.mezoB5
+{
+    
+}
+.mezoC5
+{
+    
+}
+.mezoD5
+{
+    
+}
+.mezoE5
+{
+    
+}
+.mezoF5
+{
+    
+}
+.mezoG5
+{
+    
+}
+.mezoH5
+{
+    
+}
+.mezoA4
+{
+    
+}
+.mezoB4
+{
+    
+}
+.mezoC4
+{
+    
+}
+.mezoD4
+{
+    
+}
+.mezoE4
+{
+    
+}
+.mezoF4
+{
+    
+}
+.mezoG4
+{
+    
+}
+.mezoH4
+{
+    
+}
+.mezoA3
+{
+    
+}
+.mezoB3
+{
+    
+}
+.mezoC3
+{
+    
+}
+.mezoD3
+{
+    
+}
+.mezoE3
+{
+    
+}
+.mezoF3
+{
+    
+}
+.mezoG3
+{
+    
+}
+.mezoH3
+{
+    
+}
+.mezoA2
+{
+    
+}
+.mezoB2
+{
+    
+}
+.mezoC2
+{
+    
+}
+.mezoD2
+{
+    
+}
+.mezoE2
+{
+    
+}
+.mezoF2
+{
+    
+}
+.mezoG2
+{
+    
+}
+.mezoH2
+{
+    
+}
+.mezoA1
+{
+    
+}
+.mezoB1
+{
+    
+}
+.mezoC1
+{
+    
+}
+.mezoD1
+{
+    
+}
+.mezoE1
+{
+    
+}
+.mezoF1
+{
+    
+}
+.mezoG1
+{
+    
+}
+.mezoH1
+{
+    
+}
