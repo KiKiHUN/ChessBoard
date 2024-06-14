@@ -1,0 +1,139 @@
+html
+{
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to bottom right,blue, #780164);
+    background-attachment: fixed;
+}
+.belsoresz
+{
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 2%;
+    margin-top: 1%;
+    background-color: #3f3f3f5e;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+H1{
+padding-left: 3%;
+text-align: center;
+}
+
+.row {align-self: center; width:auto;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 0 0px;
+  }
+.kozepre
+{
+    align-content: center;
+    margin-left: 15%;
+}
+.kozepgomb
+{
+  width:90% !important;
+  margin-left: 8.5%;
+}
+.szoveg:enabled
+{
+background-color: rgb(133, 149, 209);
+width: 80%;
+}
+.szoveg:disabled
+{
+background-color: rgb(80, 0, 0);
+width: 80%;
+align-self: center;
+}
+.nevjelszo{
+    font-size: larger;
+    margin-bottom: 0%;
+}
+.regisztralas
+{
+   padding: 10px;
+   width:50%;
+}
+#indit
+{
+    width: 355px;
+}
+.gombszoveg
+{
+    font-size: large;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+}
+.gombszoveg2
+{
+    font-size: medium;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+}
+.ranglista 
+{
+    padding: 10px;
+    width: 37%;
+}
+
+.ketgomb
+{
+   width: 350px;
+   align-items: center;
+   margin-top: -2%;
+   padding-left: 2%;
+}
+.button_slide {
+    color: #FFF;
+    border: 2px solid rgb(216, 2, 134);
+    border-radius: 0px;
+    padding: 18px 0 18px 0;
+    display: inline-block;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 14px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #D80286;
+    -webkit-transition: ease-out 0.4s;
+    -moz-transition: ease-out 0.4s;
+    transition: ease-out 0.4s;
+    width: 98%;
+  }
+  
+  
+  .slide_down:hover {
+    box-shadow: inset 0 100px 0 0 #D80286;
+  }
+  
+  .slide_right:hover {
+    box-shadow: inset 500px 0 0 0 #D80286;
+  }
+  
+  .slide_left:hover {
+    box-shadow: inset 0 0 0 50px #D80286;
+  }
+  
+  .slide_diagonal:hover {
+    box-shadow: inset 400px 50px 0 0 #D80286;
+  }
+  
+  #outer {
+    width: 364px;
+    margin: 50px auto 0 auto;
+    text-align: center;
+  }
