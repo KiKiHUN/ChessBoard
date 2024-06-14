@@ -1,0 +1,398 @@
+#tabla
+{
+    
+background-image: url('kepek/tabla/150.png');
+background-repeat:no-repeat;
+background-size: 100%;
+display: block;
+height: 100%;
+align-items: center;
+align-content: center;
+margin-left: 30%;
+margin-right: 30%;
+position: relative;
+}
+.column1 {
+    font-size:1.5vw;
+    margin-top: 10%;
+    margin-left: 7%;
+    float: left;
+  }
+ 
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+html
+{
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to bottom right,blue, #780164);
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    font-size:3vw;
+    color: #040025;
+}
+.belsoresz
+{
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 2%;
+    margin-top: -1%;
+    background-color: #3f3f3f5e;
+}
+.babu
+{
+    size: 5px;
+    background-size: 90%;
+    background-position-x: center;
+    cursor: pointer;
+    cursor: grab;
+    cursor: -webkit-grab;
+    height: 12.5%;
+    width: 12.5%;
+    left: 10;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    touch-action: none;
+    will-change: transform;
+    background-repeat:no-repeat;
+}
+.highlight
+{
+    
+    
+    border-radius: 50%;
+    background-color: #57c566;
+    opacity: 0.5;
+}
+.killhighlights
+{
+    
+    
+    border-radius: 50%;
+    background-color: #fd7979;
+    opacity: 0.5;
+}
+.Bparaszt
+{
+    background-image: url('kepek/babuk/bp.png');
+    background-size: 70%;
+    
+}
+.Wparaszt
+{
+    background-image: url('kepek/babuk/wp.png');
+    background-size: 70%;
+}
+.Bkiraly
+{
+    background-image: url('kepek/babuk/bk.png');
+
+}
+.Wkiraly
+{
+    background-image: url('kepek/babuk/wk.png');
+    background-position-y: 70%;
+}
+.Bkiralyno
+{
+    background-image: url('kepek/babuk/bq.png');
+    background-position-y: center;
+}
+.Wkiralyno
+{
+    background-image: url('kepek/babuk/wq.png');
+    background-size: 70%;
+    
+}
+.Bfuto
+{
+    background-image: url('kepek/babuk/bb.png');
+}
+.Wfuto
+{
+    background-image: url('kepek/babuk/wb.png');
+    background-size: 110%;
+}
+.Blo
+{
+    background-image: url('kepek/babuk/bn.png');
+}
+.Wlo
+{
+    background-image: url('kepek/babuk/wn.png');
+}
+.Bbastya
+{
+    background-image: url('kepek/babuk/br.png');
+}
+.Wbastya
+{
+    background-image: url('kepek/babuk/wr.png');
+}
+
+.mezoA8
+{
+    transform: translate(0,0%);
+}
+.mezoB8
+{
+    transform: translate(100%,0%);
+}
+.mezoC8
+{
+    transform: translate(200%,0%);
+}
+.mezoD8
+{
+    transform: translate(300%,0%);
+}
+.mezoE8
+{
+    transform: translate(400%,0%);
+}
+.mezoF8
+{
+    transform: translate(500%,0%);
+}
+.mezoG8
+{
+    transform: translate(600%,0%);
+}
+.mezoH8
+{
+    transform: translate(700%,0%);
+}
+.mezoA7
+{
+    transform: translate(0%,100%);
+}
+.mezoB7
+{
+    transform: translate(100%,100%);
+}
+.mezoC7
+{
+    transform: translate(200%,100%);
+}
+.mezoD7
+{
+    transform: translate(300%,100%);
+}
+.mezoE7
+{
+    transform: translate(400%,100%);
+}
+.mezoF7
+{
+    transform: translate(500%,100%);
+}
+.mezoG7
+{
+    transform: translate(600%,100%);
+}
+.mezoH7
+{
+    transform: translate(700%,100%);
+}
+.mezoA6
+{
+    transform: translate(0%,200%);
+}
+.mezoB6
+{
+    transform: translate(100%,200%);
+}
+.mezoC6
+{
+    transform: translate(200%,200%);
+}
+.mezoD6
+{
+    transform: translate(300%,200%);
+}
+.mezoE6
+{
+    transform: translate(400%,200%);
+}
+.mezoF6
+{
+    transform: translate(500%,200%);
+}
+.mezoG6
+{
+    transform: translate(600%,200%);
+}
+.mezoH6
+{
+    transform: translate(700%,200%);
+}
+.mezoA5
+{
+    transform: translate(0%,300%);
+}
+.mezoB5
+{
+    transform: translate(100%,300%);
+}
+.mezoC5
+{
+    transform: translate(200%,300%);
+}
+.mezoD5
+{
+    transform: translate(300%,300%);
+}
+.mezoE5
+{
+    transform: translate(400%,300%);
+}
+.mezoF5
+{
+    transform: translate(500%,300%);
+}
+.mezoG5
+{
+    transform: translate(600%,300%);
+}
+.mezoH5
+{
+    transform: translate(700%,300%);
+}
+.mezoA4
+{
+    transform: translate(0%,400%);
+}
+.mezoB4
+{
+    transform: translate(100%,400%);
+}
+.mezoC4
+{
+    transform: translate(200%,400%);
+}
+.mezoD4
+{
+    transform: translate(300%,400%);
+}
+.mezoE4
+{
+    transform: translate(400%,400%);
+}
+.mezoF4
+{
+    transform: translate(500%,400%);
+}
+.mezoG4
+{
+    transform: translate(600%,400%);
+}
+.mezoH4
+{
+    transform: translate(700%,400%);
+}
+.mezoA3
+{
+    transform: translate(0%,500%);
+}
+.mezoB3
+{
+    transform: translate(100%,500%);
+}
+.mezoC3
+{
+    transform: translate(200%,500%);
+}
+.mezoD3
+{
+    transform: translate(300%,500%);
+}
+.mezoE3
+{
+    transform: translate(400%,500%);
+}
+.mezoF3
+{
+    transform: translate(500%,500%);
+}
+.mezoG3
+{
+    transform: translate(600%,500%);
+}
+.mezoH3
+{
+    transform: translate(700%,500%);
+}
+.mezoA2
+{
+    transform: translate(0%,600%);
+}
+.mezoB2
+{
+    transform: translate(100%,600%);
+}
+.mezoC2
+{
+    transform: translate(200%,600%);
+}
+.mezoD2
+{
+    transform: translate(300%,600%);
+}
+.mezoE2
+{
+    transform: translate(400%,600%);
+}
+.mezoF2
+{
+    transform: translate(500%,600%);
+}
+.mezoG2
+{
+    transform: translate(600%,600%);
+}
+.mezoH2
+{
+    transform: translate(700%,600%);
+}
+.mezoA1
+{
+    transform: translate(0%,700%);
+}
+.mezoB1
+{
+    transform: translate(100%,700%);
+}
+.mezoC1
+{
+    transform: translate(200%,700%);
+}
+.mezoD1
+{
+    transform: translate(300%,700%);
+}
+.mezoE1
+{
+    transform: translate(400%,700%);
+}
+.mezoF1
+{
+    transform: translate(500%,700%);
+}
+.mezoG1
+{
+    transform: translate(600%,700%);
+}
+.mezoH1
+{
+    transform: translate(700%,700%);
+}
